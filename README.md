@@ -24,4 +24,3 @@ In regards to the external style sheet I consolidated and organized the CSS sele
 ![Second of three screenshots](assets/images/Screenshot-2)
 ![Third of three screenshots](assets/images/Screenshot-3)
 
-
