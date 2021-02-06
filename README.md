@@ -20,7 +20,9 @@ In regards to the external style sheet I consolidated and organized the CSS sele
 
 ## Screenshots of the finished project
 
-![First of three screenshots](assets/images/Screenshot-1)
-![Second of three screenshots](assets/images/Screenshot-2)
-![Third of three screenshots](assets/images/Screenshot-3)
+![First of three screenshots](assets/images/Screenshot-1.png)
+![Second of three screenshots](assets/images/Screenshot-2.png)
+![Third of three screenshots](assets/images/Screenshot-3.png)
+
+
 
