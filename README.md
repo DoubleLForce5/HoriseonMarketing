@@ -32,6 +32,10 @@ In regards to the external style sheet, I consolidated and organized the CSS sel
 
 https://doublelforce5.github.io/HoriseonMarketing/
 
+## Contact 
+
+Email: lopez.olivia17@outlook.com
+
 ## MIT license
 
 Copyright (c) 2021 Olivia Lopez 
